@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": "^7.3 | ^8.0",
-        "nelmio/alice": "^3.5",
+        "nelmio/alice": "de-master",
         "psr/log": "^1.0"
     },
     "require-dev": {
