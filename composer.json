@@ -1,5 +1,5 @@
 {
-    "name": "pozsi/alice-data-fixtures",
+    "name": "hautelook/alice-data-fixtures",
     "description": "Nelmio alice extension to persist the loaded fixtures.",
     "keywords": [
         "Fixture",
